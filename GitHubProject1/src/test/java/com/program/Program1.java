@@ -13,7 +13,9 @@ public class Program1 {
 	public void m3() {
 		System.out.println("This is M3 method");
 	}
-	
+	public void m4(){
+		System.out.println("This is m4 method");
+	}
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
